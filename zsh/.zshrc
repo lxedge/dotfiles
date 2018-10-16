@@ -2,7 +2,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/Users/lixing/.oh-my-zsh"
+export ZSH="$HOME/.oh-my-zsh"
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
@@ -71,6 +71,7 @@ plugins=(
     extract # For extracting compressed file. Usage: x file.
     zsh-navigation zsh_reload zsh-autosuggestions zsh-syntax-highlighting
     # Git related. Using git instead gitfast in Ubuntu due to iterm2.
+    # But I try gitfast on Ubuntu, it looks work correctly.
     gitfast git-auto-fetch git-extras git-flow git-prompt
     github
     history
