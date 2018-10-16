@@ -70,7 +70,8 @@ plugins=(
     z # Plugin like autojump.
     extract # For extracting compressed file. Usage: x file.
     zsh-navigation zsh_reload zsh-autosuggestions zsh-syntax-highlighting
-    gitfast git-auto-fetch git-extras git-flow git-prompt # git
+    # Git related. Using git instead gitfast in Ubuntu due to iterm2.
+    gitfast git-auto-fetch git-extras git-flow git-prompt
     github
     history
     docker docker-compose
