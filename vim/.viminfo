@@ -1,0 +1,1317 @@
+# 这个 viminfo 文件是由 Vim 9.0 生成的。
+# 如果要自行修改请特别小心！
+
+# Viminfo version
+|1,4
+
+# 此文件建立时 'encoding' 的值
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 最后 搜索模式:
+~MSle0~/pid
+
+# 命令行 历史记录 (从新到旧):
+:q
+|2,0,1694628072,,"q"
+:x
+|2,0,1694569859,,"x"
+:w
+|2,0,1693547616,,"w"
+:q!
+|2,0,1684229394,,"q!"
+:fjwaeio;
+|2,0,1684228282,,"fjwaeio;"
+:X
+|2,0,1644531286,,"X"
+:wq!
+|2,0,1632377405,,"wq!"
+:wq
+|2,0,1632368086,,"wq"
+:h vimtutor
+|2,0,1616158108,,"h vimtutor"
+:x 
+|2,0,1591670737,,"x "
+:wq 
+|2,0,1573710487,,"wq "
+:qw
+|2,0,1573502022,,"qw"
+:set 
+|2,0,1573246323,,"set "
+:set number
+|2,0,1573246295,,"set number"
+:set cursorline
+|2,0,1573246289,,"set cursorline"
+:set relativenumber
+|2,0,1573246274,,"set relativenumber"
+:set autoindent
+|2,0,1573246211,,"set autoindent"
+:set showcmd
+|2,0,1573246190,,"set showcmd"
+:set showmode
+|2,0,1573246154,,"set showmode"
+:syntax on
+|2,0,1573246075,,"syntax on"
+:set syntax on
+|2,0,1573246052,,"set syntax on"
+:set syntax
+|2,0,1573246036,,"set syntax"
+:set compatible?
+|2,0,1573246021,,"set compatible?"
+:set number?
+|2,0,1573245961,,"set number?"
+
+# 查找字符串 历史记录 (从新到旧):
+?/pid
+|2,1,1684228437,47,"pid"
+? \<ZSH_THEME\>
+|2,1,1676719264,,"\\<ZSH_THEME\\>"
+?/extension_dir
+|2,1,1632376974,47,"extension_dir"
+?/extension
+|2,1,1632368054,47,"extension"
+?/extention
+|2,1,1632368046,47,"extention"
+?/Directory
+|2,1,1632364061,47,"Directory"
+?/messages
+|2,1,1612321979,47,"messages"
+?/replace
+|2,1,1611821771,47,"replace"
+?/e
+|2,1,1611813910,47,"e"
+? \<Merge\>
+|2,1,1597118968,,"\\<Merge\\>"
+?/Acl
+|2,1,1573264241,47,"Acl"
+?/super
+|2,1,1573048731,47,"super"
+?/local
+|2,1,1573048484,47,"local"
+
+# 表达式 历史记录 (从新到旧):
+
+# 输入行 历史记录 (从新到旧):
+
+# 输入行 历史记录 (从新到旧):
+
+# 寄存器:
+"0	CHAR	0
+	100000
+|3,0,0,0,1,0,1607708043,"100000"
+"1	LINE	0
+	"
+|3,0,1,1,1,0,1694569853,"\""
+"2	LINE	0
+	"
+|3,0,2,1,1,0,1694569852,"\""
+"3	LINE	0
+	
+|3,0,3,1,1,0,1694507350,""
+"4	LINE	0
+	
+|3,0,4,1,1,0,1693554902,""
+"5	LINE	0
+	
+|3,0,5,1,1,0,1693554901,""
+"6	LINE	0
+	  User yydev
+|3,0,6,1,1,0,1693547607,"  User yydev"
+"7	LINE	0
+	  Port 22
+|3,0,7,1,1,0,1693547607,"  Port 22"
+"8	LINE	0
+	          proxy_pass http://127.0.0.1:8081;
+|3,0,8,1,1,0,1684230716,"          proxy_pass http://127.0.0.1:8081;"
+"9	LINE	0
+	
+|3,0,9,1,1,0,1684230707,""
+""-	CHAR	0
+	"
+|3,1,36,0,1,0,1694569856,"\""
+
+# 文件标记:
+'0  1  0  ~/.zshrc
+|4,48,1,0,1694628072,"~/.zshrc"
+'1  1  33  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,49,1,33,1694569859,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+'2  71  0  ~/.ssh/config
+|4,50,71,0,1694507354,"~/.ssh/config"
+'3  193  0  ~/.zshrc
+|4,51,193,0,1694501210,"~/.zshrc"
+'4  193  0  ~/.zshrc
+|4,52,193,0,1694501210,"~/.zshrc"
+'5  99  0  ~/.zshrc
+|4,53,99,0,1694501103,"~/.zshrc"
+'6  99  0  ~/.zshrc
+|4,54,99,0,1694501103,"~/.zshrc"
+'7  99  0  ~/.zshrc
+|4,55,99,0,1694501103,"~/.zshrc"
+'8  99  0  ~/.zshrc
+|4,56,99,0,1694501103,"~/.zshrc"
+'9  190  0  ~/.zshrc
+|4,57,190,0,1694490381,"~/.zshrc"
+
+# 跳转列表 (从新到旧):
+-'  1  0  ~/.zshrc
+|4,39,1,0,1694628072,"~/.zshrc"
+-'  1  33  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,33,1694569859,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  33  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,33,1694569859,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  71  0  ~/.ssh/config
+|4,39,71,0,1694507354,"~/.ssh/config"
+-'  71  0  ~/.ssh/config
+|4,39,71,0,1694507354,"~/.ssh/config"
+-'  71  0  ~/.ssh/config
+|4,39,71,0,1694507354,"~/.ssh/config"
+-'  71  0  ~/.ssh/config
+|4,39,71,0,1694507354,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1694507270,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1694507270,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1694507270,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1694507270,"~/.ssh/config"
+-'  8  0  ~/.ssh/config
+|4,39,8,0,1694507268,"~/.ssh/config"
+-'  8  0  ~/.ssh/config
+|4,39,8,0,1694507268,"~/.ssh/config"
+-'  8  0  ~/.ssh/config
+|4,39,8,0,1694507268,"~/.ssh/config"
+-'  8  0  ~/.ssh/config
+|4,39,8,0,1694507268,"~/.ssh/config"
+-'  193  0  ~/.zshrc
+|4,39,193,0,1694501210,"~/.zshrc"
+-'  193  0  ~/.zshrc
+|4,39,193,0,1694501210,"~/.zshrc"
+-'  193  0  ~/.zshrc
+|4,39,193,0,1694501210,"~/.zshrc"
+-'  193  0  ~/.zshrc
+|4,39,193,0,1694501210,"~/.zshrc"
+-'  193  0  ~/.zshrc
+|4,39,193,0,1694501210,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1694501176,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1694501176,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1694501176,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1694501176,"~/.zshrc"
+-'  99  0  ~/.zshrc
+|4,39,99,0,1694501103,"~/.zshrc"
+-'  99  0  ~/.zshrc
+|4,39,99,0,1694501103,"~/.zshrc"
+-'  99  0  ~/.zshrc
+|4,39,99,0,1694501103,"~/.zshrc"
+-'  99  0  ~/.zshrc
+|4,39,99,0,1694501103,"~/.zshrc"
+-'  99  0  ~/.zshrc
+|4,39,99,0,1694501103,"~/.zshrc"
+-'  99  0  ~/.zshrc
+|4,39,99,0,1694501103,"~/.zshrc"
+-'  99  0  ~/.zshrc
+|4,39,99,0,1694501103,"~/.zshrc"
+-'  99  0  ~/.zshrc
+|4,39,99,0,1694501103,"~/.zshrc"
+-'  99  0  ~/.zshrc
+|4,39,99,0,1694501103,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1694500518,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1694500518,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1694500518,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1694500518,"~/.zshrc"
+-'  190  0  ~/.zshrc
+|4,39,190,0,1694490381,"~/.zshrc"
+-'  189  0  ~/.zshrc
+|4,39,189,0,1694490381,"~/.zshrc"
+-'  190  0  ~/.zshrc
+|4,39,190,0,1694490381,"~/.zshrc"
+-'  189  0  ~/.zshrc
+|4,39,189,0,1694490381,"~/.zshrc"
+-'  190  0  ~/.zshrc
+|4,39,190,0,1694490381,"~/.zshrc"
+-'  189  0  ~/.zshrc
+|4,39,189,0,1694490381,"~/.zshrc"
+-'  190  0  ~/.zshrc
+|4,39,190,0,1694490381,"~/.zshrc"
+-'  189  0  ~/.zshrc
+|4,39,189,0,1694490381,"~/.zshrc"
+-'  190  0  ~/.zshrc
+|4,39,190,0,1694490381,"~/.zshrc"
+-'  189  0  ~/.zshrc
+|4,39,189,0,1694490381,"~/.zshrc"
+-'  190  0  ~/.zshrc
+|4,39,190,0,1694490381,"~/.zshrc"
+-'  189  0  ~/.zshrc
+|4,39,189,0,1694490381,"~/.zshrc"
+-'  190  0  ~/.zshrc
+|4,39,190,0,1694490381,"~/.zshrc"
+-'  189  0  ~/.zshrc
+|4,39,189,0,1694490381,"~/.zshrc"
+-'  190  0  ~/.zshrc
+|4,39,190,0,1694490381,"~/.zshrc"
+-'  189  0  ~/.zshrc
+|4,39,189,0,1694490381,"~/.zshrc"
+-'  190  0  ~/.zshrc
+|4,39,190,0,1694490381,"~/.zshrc"
+-'  189  0  ~/.zshrc
+|4,39,189,0,1694490381,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1694490376,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1694490376,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1694490376,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1694490376,"~/.zshrc"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694404517,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694402441,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694402441,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694402441,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694402441,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694402441,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694402441,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694402441,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694402441,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+-'  1  0  ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+|4,39,1,0,1694402441,"~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG"
+
+# 文件内的标记历史记录 (从新到旧):
+
+> ~/.zshrc
+	*	1694628070	0
+	"	1	0
+	^	193	0
+	.	192	55
+	+	74	21
+	+	75	3
+	+	79	7
+	+	137	41
+	+	138	1
+	+	137	1
+	+	140	0
+	+	140	37
+	+	150	47
+	+	83	17
+	+	156	0
+	+	86	4
+	+	87	4
+	+	156	52
+	+	79	62
+	+	153	83
+	+	156	0
+	+	155	0
+	+	154	0
+	+	156	53
+	+	158	24
+	+	90	6
+	+	158	0
+	+	90	0
+	+	71	14
+	+	90	0
+	+	71	14
+	+	88	10
+	+	70	17
+	+	89	6
+	+	156	0
+	+	156	29
+	+	75	4
+	+	164	78
+	+	164	17
+	+	10	26
+	+	12	0
+	+	10	26
+	+	11	2
+	+	10	1
+	+	11	0
+	+	164	0
+	+	156	0
+	+	97	4
+	+	77	4
+	+	192	55
+
+> ~/workspace/yy/rubik_game_umbrella/.git/COMMIT_EDITMSG
+	*	1694569858	0
+	"	1	33
+	.	1	34
+	+	2	0
+	+	1	34
+
+> ~/.ssh/config
+	*	1694507354	0
+	"	71	0
+	.	72	0
+	+	13	19
+	+	13	2
+	+	13	15
+	+	13	10
+	+	13	15
+	+	13	24
+	+	13	4
+	+	13	0
+	+	13	15
+	+	13	8
+	+	13	15
+	+	1	15
+	+	13	0
+	+	10	0
+	+	9	13
+	+	13	18
+	+	13	0
+	+	13	16
+	+	9	0
+	+	8	6
+	+	9	6
+	+	8	10
+	+	9	12
+	+	14	0
+	+	13	0
+	+	1	0
+	+	16	8
+	+	18	0
+	+	21	9
+	+	29	12
+	+	26	22
+	+	25	10
+	+	27	38
+	+	37	0
+	+	37	18
+	+	38	23
+	+	39	26
+	+	41	14
+	+	42	2
+	+	31	19
+	+	35	12
+	+	32	24
+	+	37	0
+	+	1	0
+	+	6	0
+	+	5	8
+	+	6	0
+	+	43	3
+	+	23	19
+	+	10	0
+	+	11	9
+	+	43	17
+	+	72	11
+	+	48	11
+	+	47	8
+	+	72	0
+	+	50	0
+	+	72	0
+	+	65	25
+	+	58	1
+	+	57	21
+	+	59	1
+	+	60	1
+	+	65	26
+	+	63	1
+	+	64	1
+	+	65	1
+	+	62	21
+	+	68	23
+	+	63	10
+	+	58	10
+	+	72	0
+
+> ~/practice/go_argo/.git/COMMIT_EDITMSG
+	*	1692562195	0
+	"	1	0
+
+> ~/workspace/bingyao/lightpal/.git/COMMIT_EDITMSG
+	*	1691551328	0
+	"	1	0
+
+> ~/workspace/bingyao/lightpal-wx/.git/COMMIT_EDITMSG
+	*	1690862171	0
+	"	1	0
+
+> ~/workspace/tikhub/destiny/.git/COMMIT_EDITMSG
+	*	1684925844	0
+	"	1	0
+
+> /usr/local/etc/nginx/nginx.conf
+	*	1684230724	0
+	"	71	41
+	^	71	42
+	.	71	41
+	+	24	9
+	+	3	0
+	+	34	2
+	+	35	2
+	+	1	1
+	+	2	17
+	+	6	0
+	+	30	0
+	+	34	0
+	+	30	3
+	+	75	5
+	+	75	41
+	+	75	7
+	+	75	0
+	+	54	2
+	+	30	0
+	+	75	0
+	+	75	3
+	+	75	0
+	+	73	3
+	+	75	0
+	+	71	41
+
+> /usr/local/etc/nginx/conf.d/destiny.conf
+	*	1684230327	0
+	"	1	0
+	^	15	62
+	.	15	61
+	+	33	1
+	+	14	58
+	+	15	61
+
+> /usr/local/etc/nginx/nginx.conf.old
+	*	1684229792	0
+	"	60	8
+	.	15	0
+	+	15	0
+
+> /private/etc/pf.anchors/idea.tomcat.forwarding
+	*	1684229402	0
+	"	2	83
+	^	2	87
+	.	2	84
+	+	1	84
+	+	1	87
+	+	2	84
+	+	1	0
+	+	2	84
+
+> /private/etc/pf-tomcat.conf
+	*	1684229163	0
+	"	2	69
+	^	2	70
+	.	2	69
+	+	1	23
+	+	2	69
+
+> /usr/local/etc/nginx/nginx.conf.new
+	*	1684228114	0
+	"	85	1
+	^	85	2
+	.	85	1
+	+	85	1
+
+> ~/workspace/bingyao/destiny_backend/.git/COMMIT_EDITMSG
+	*	1684140188	0
+	"	1	0
+
+> ~/blockchain/workspace/staking_deposit-cli-76ed782-linux-amd64/deposit
+	*	1682525529	0
+	"	1	0
+
+> ~/.docker/config.json
+	*	1682365581	0
+	"	5	2
+	.	5	0
+	+	5	0
+
+> ~/practice/solidity/truffle-config.js
+	*	1680703983	0
+	"	52	12
+	^	52	13
+	.	52	12
+	+	52	12
+
+> /usr/local/bin/lein
+	*	1678812709	0
+	"	419	11
+
+> ~/.cargo/config.toml
+	*	1676720943	0
+	"	1	0
+	^	6	0
+	.	1	0
+	+	1	18
+	+	4	13
+	+	5	12
+	+	1	56
+	+	5	56
+	+	1	0
+
+> ~/.cargo/config
+	*	1676720927	0
+	"	6	0
+	^	3	0
+	.	3	0
+	+	5	54
+	+	2	0
+	+	5	56
+	+	3	0
+
+> ~/fortube/launchpad/.git/COMMIT_EDITMSG
+	*	1646276261	0
+	"	1	0
+	^	1	42
+	.	1	41
+	+	1	41
+
+> ~/fortube/launchpad-admin/.git/COMMIT_EDITMSG
+	*	1645610117	0
+	"	1	0
+	^	1	72
+	.	1	58
+	+	1	58
+
+> ~/fortube/launchpad/.git/MERGE_MSG
+	*	1645497543	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/fortube/launchpad/.git/rebase-merge/git-rebase-todo
+	*	1644485444	0
+	"	1	0
+	^	7	0
+	.	7	0
+	+	2	0
+	+	8	0
+	+	2	0
+	+	5	0
+	+	2	0
+	+	6	0
+	+	5	0
+	+	9	0
+	+	7	0
+
+> /private/etc/php.ini
+	*	1632377400	0
+	"	754	66
+	^	754	66
+	.	754	65
+	+	908	0
+	+	909	0
+	+	910	0
+	+	911	0
+	+	912	0
+	+	913	0
+	+	914	0
+	+	915	0
+	+	916	0
+	+	917	0
+	+	918	0
+	+	919	0
+	+	920	0
+	+	921	0
+	+	922	0
+	+	923	0
+	+	924	0
+	+	925	0
+	+	926	0
+	+	927	0
+	+	928	0
+	+	929	0
+	+	930	0
+	+	931	0
+	+	935	0
+	+	937	0
+	+	938	0
+	+	939	0
+	+	940	0
+	+	941	0
+	+	942	0
+	+	943	0
+	+	754	65
+
+> /private/etc/apache2/httpd.conf
+	*	1632364274	0
+	"	257	38
+	^	257	39
+	.	257	37
+	+	255	45
+	+	256	38
+	+	257	37
+
+> ~/huicong/boiler_umbrella/.git/COMMIT_EDITMSG
+	*	1630918437	0
+	"	1	0
+
+> ~/VPN/production/production.ovpn
+	*	1629084443	0
+	"	5	24
+	^	5	25
+	.	5	24
+	+	4	1
+	+	5	24
+
+> ~/VPN/hc360/hc360.ovpn
+	*	1629084350	0
+	"	5	0
+	^	4	2
+	.	5	0
+	+	5	24
+	+	4	0
+	+	5	0
+	+	4	0
+	+	5	0
+
+> ~/huicong/searchapi/.git/COMMIT_EDITMSG
+	*	1628752856	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> ~/huicong/searchapi/.git/MERGE_MSG
+	*	1627542291	0
+	"	1	0
+	^	1	2
+	.	1	1
+	+	1	1
+
+> ~/huicong/search_data/.git/COMMIT_EDITMSG
+	*	1627293895	0
+	"	1	0
+
+> /Library/LaunchDaemons/com.gemtalksystems.shared-memory.plist
+	*	1625213994	0
+	"	23	0
+	^	23	0
+	.	22	8
+	+	3	0
+	+	1	38
+	+	22	8
+
+> ~/huicong/scrm/.git/MERGE_MSG
+	*	1623035485	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
+
+> ~/.proxychains/proxychains.conf
+	*	1623005066	0
+	"	4	19
+	^	4	20
+	.	4	20
+	+	3	0
+	+	5	0
+	+	4	20
+
+> ~/.oh-my-zsh/plugins/golang/.zshrc
+	*	1622918615	0
+	"	1	0
+
+> ~/.m2/settings.xml
+	*	1620458015	0
+	"	314	0
+	^	240	0
+	.	240	0
+	+	286	7
+	+	1	0
+	+	36	4
+	+	20	0
+	+	25	4
+	+	28	5
+	+	37	4
+	+	239	10
+	+	212	0
+	+	213	1
+	+	242	0
+	+	240	0
+
+> ~/.m2/settings.xml.right
+	*	1620457860	0
+	"	317	0
+
+> ~/.m2/settings.xml~
+	*	1620457389	0
+	"	345	0
+
+> /usr/local/Cellar/vim/8.2.1650/share/vim/vim82/doc/usr_01.txt
+	*	1616158748	0
+	"	140	0
+
+> ~/huicong/scrm/.git/COMMIT_EDITMSG
+	*	1616149421	0
+	"	1	0
+
+> ~/huicong/scrm/.git/rebase-merge/git-rebase-todo
+	*	1616149370	0
+	"	1	0
+
+> ~/cityfruit/cf-micro-service/fs-invoker-server/src/main/resources/application.yml
+	*	1615531366	0
+	"	1	0
+
+> ~/.condarc
+	*	1614845844	0
+	"	3	0
+
+> ~/deeplearning/environment.yml
+	*	1614845569	0
+	"	5	0
+
+> ~/cityfruit/sunpeople-backend/sql/latest.sql
+	*	1612321995	0
+	"	781	30
+
+> ~/cityfruit/wonderland/message/sql/tables.sql
+	*	1612321881	0
+	"	43	55
+
+> ~/.m2/settings.xml.bkup
+	*	1612258035	0
+	"	179	7
+
+> ~/huicong/MS-hsearch/.git/COMMIT_EDITMSG
+	*	1612178440	0
+	"	1	0
+
+> ~/Downloads/logback_error.log
+	*	1611822462	0
+	"	13486	66
+
+> ~/Downloads/logback_info.log
+	*	1611813913	0
+	"	291196	0
+
+> ~/huicong/searchapi/.git/rebase-merge/git-rebase-todo
+	*	1610707775	0
+	"	2	1
+	^	2	2
+	.	2	1
+	+	4	0
+	+	1	2
+	+	2	1
+	+	4	0
+	+	2	1
+
+> ~/lxedge/fan/FutuOpenD_2.19.1252_Mac/FutuOpenD_2.19.1252_Mac/FutuOpenD.xml
+	*	1607708098	0
+	"	43	45
+	.	18	0
+	+	18	0
+
+> ~/lxedge/fan/FutuOpenD_2.19.1252_Mac/FutuOpenD_2.19.1252_Mac/FutuOpenD.
+	*	1607708000	0
+	"	1	0
+
+> ~/.emacs.d/.git/COMMIT_EDITMSG
+	*	1607193395	0
+	"	1	0
+
+> ~/.emacs.d/.gitignore
+	*	1607108899	0
+	"	1	0
+	^	4	0
+	.	1	0
+	+	1	9
+	+	1	15
+	+	1	0
+	+	1	15
+	+	2	10
+	+	3	5
+	+	3	0
+	+	1	0
+
+> ~/huicong/MS-hsearch/.gitignore
+	*	1606963988	0
+	"	9	0
+	.	8	0
+	+	1	0
+	+	7	0
+	+	10	0
+	+	8	0
+
+> ~/.emacs.d/early-init.el
+	*	1605716902	0
+	"	12	71
+	^	12	72
+	.	12	71
+	+	12	71
+
+> ~/.ssh/known_hosts
+	*	1605199369	0
+	"	39	0
+	.	40	0
+	+	40	0
+
+> ~/huicong/hcbizchat/.git/COMMIT_EDITMSG
+	*	1602765294	0
+	"	1	0
+	^	1	17
+	.	1	16
+	+	1	0
+	+	2	0
+	+	1	16
+
+> ~/huicong/hcbizchat/.git/MERGE_MSG
+	*	1600055101	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> ~/huicong/hcbizchat/assets/static/loadjs.js
+	*	1599649034	0
+	"	16	4
+	.	16	0
+	+	17	0
+	+	16	0
+
+> /private/tmp/zshcMceBf
+	*	1597822597	0
+	"	1	0
+
+> ~/lxedge/hcbizchat/docker-compose.yml
+	*	1596538733	0
+	"	53	26
+	^	53	27
+	.	53	26
+	+	53	4
+	+	54	5
+	+	53	26
+
+> /private/etc/hosts
+	*	1596097284	0
+	"	15	6
+	^	15	7
+	.	15	6
+	+	14	28
+	+	14	0
+	+	14	29
+	+	16	13
+	+	14	0
+	+	17	26
+	+	18	30
+	+	19	12
+	+	18	12
+	+	14	0
+	+	15	6
+
+> ~/huicong/sling/api/mix.exs
+	*	1595817899	0
+	"	1	0
+
+> ~/.emacs.d/init.el
+	*	1594132666	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/cityfruit/sunpeople-backend/.git/COMMIT_EDITMSG
+	*	1592318754	0
+	"	1	0
+	^	1	53
+	.	1	52
+	+	1	52
+
+> ~/cityfruit/proxyman/.git/COMMIT_EDITMSG
+	*	1591672546	0
+	"	1	0
+
+> ~/cityfruit/sunpeople-backend/docker/Dockerfile
+	*	1590118951	0
+	"	4	0
+	^	2	14
+	.	2	13
+	+	2	13
+
+> ~/cityfruit/spc.yml
+	*	1590053592	0
+	"	169	0
+	^	169	0
+	.	169	0
+	+	168	41
+	+	169	0
+
+> ~/cityfruit/sunpeople-backend/.git/MERGE_MSG
+	*	1589800947	0
+	"	1	0
+	^	1	2
+	.	1	1
+	+	1	1
+
+> ~/cityfruit/wonderland/usercenter/config.edn
+	*	1588523297	0
+	"	51	56
+
+> ~/cityfruit/sunpeople-backend/script/start_id
+	*	1586855979	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	74576
+	+	1	0
+
+> ~/cityfruit/sunpeople-backend/.git/rebase-merge/git-rebase-todo
+	*	1586491339	0
+	"	1	0
+	^	1	2
+	.	1	1
+	+	17	0
+	+	11	0
+	+	7	0
+	+	17	0
+	+	7	0
+	+	17	0
+	+	7	0
+	+	18	0
+	+	7	0
+	+	26	0
+	+	9	0
+	+	26	0
+	+	9	0
+	+	26	0
+	+	10	0
+	+	7	0
+	+	7	4
+	+	7	6
+	+	7	1
+	+	9	1
+	+	10	1
+	+	7	0
+	+	1	62
+	+	7	1
+	+	11	0
+	+	5	1
+	+	7	0
+	+	6	0
+	+	7	0
+	+	4	0
+	+	7	0
+	+	2	1
+	+	4	1
+	+	1	1
+	+	10	0
+	+	1	1
+	+	2	1
+	+	4	1
+	+	5	1
+	+	6	1
+	+	7	1
+	+	9	1
+	+	10	1
+	+	11	1
+	+	12	1
+	+	13	1
+	+	14	1
+	+	15	1
+	+	16	1
+	+	2	1
+	+	13	1
+	+	9	0
+	+	3	1
+	+	13	1
+	+	14	1
+	+	13	0
+	+	8	2
+	+	12	1
+	+	13	1
+	+	26	1
+	+	20	0
+	+	21	0
+	+	26	2
+	+	27	1
+	+	28	0
+	+	23	0
+	+	28	0
+	+	24	0
+	+	28	0
+	+	25	0
+	+	23	1
+	+	24	1
+	+	25	1
+	+	27	0
+	+	22	1
+	+	42	1
+	+	49	1
+	+	54	1
+	+	55	1
+	+	56	0
+	+	53	1
+	+	56	0
+	+	52	1
+	+	56	0
+	+	51	1
+	+	56	0
+	+	50	0
+	+	45	0
+	+	44	0
+	+	48	0
+	+	59	1
+	+	60	1
+	+	63	1
+	+	66	0
+	+	58	1
+	+	68	0
+	+	57	1
+	+	86	1
+	+	92	1
+	+	1	1
+
+> ~/cityfruit/wonderland/.git/COMMIT_EDITMSG
+	*	1585578934	0
+	"	1	0
+	.	1	40
+	+	1	40
+
+> ~/cityfruit/wonderland/usercenter/target/config.edn
+	*	1585569274	0
+	"	81	1
+	^	81	2
+	.	81	1
+	+	81	1
+
+> ~/cityfruit/sunpeople-wand/.git/COMMIT_EDITMSG
+	*	1585559447	0
+	"	1	0
+
+> ~/cityfruit/wonderland/robots/money/.gitignore
+	*	1584941997	0
+	"	3	0
+	^	3	0
+	.	2	5
+	+	1	11
+	+	2	0
+	+	1	1
+	+	2	5
+
+> ~/cityfruit/wonderland/.git/rebase-merge/git-rebase-todo
+	*	1584372977	0
+	"	1	0
+	.	1	0
+	+	5	0
+	+	6	0
+	+	14	0
+	+	7	0
+	+	14	0
+	+	8	0
+	+	9	0
+	+	14	0
+	+	2	0
+	+	16	0
+	+	5	0
+	+	16	0
+	+	10	0
+	+	16	0
+	+	11	0
+	+	16	0
+	+	5	1
+	+	6	1
+	+	7	1
+	+	8	1
+	+	9	1
+	+	2	34
+	+	5	1
+	+	2	1
+	+	5	0
+	+	4	0
+	+	5	0
+	+	2	0
+	+	5	0
+	+	2	0
+	+	3	0
+	+	2	0
+	+	3	0
+	+	1	0
+
+> ~/.lein/profiles.clj
+	*	1582272942	0
+	"	58	77
+
+> ~/cityfruit/wonderland/wand-websocket/websocket.html
+	*	1581981120	0
+	"	11	10
+	.	11	0
+	+	12	0
+	+	11	0
+
+> ~/cityfruit/wonderland/.gitignore
+	*	1577209594	0
+	"	3	6
+	^	3	7
+	.	3	6
+	+	1	9
+	+	4	4
+	+	2	6
+	+	3	6
+
+> ~/cityfruit/wonderland/relation/resources/log4j.properties
+	*	1576492740	0
+	"	1	0
+
+> ~/cityfruit/wonderland/oauth/resources/log4j.properties
+	*	1576492717	0
+	"	6	64
+	^	6	60
+	.	6	59
+	+	6	59
+
+> ~/cityfruit/wonderland/kong/kong.conf
+	*	1576485405	0
+	"	76	32
+	^	76	33
+	.	76	32
+	+	75	25
+	+	76	32
+
+> ~/cityfruit/wonderland/oauth/.gitignore
+	*	1575912966	0
+	"	11	4
+	^	11	5
+	.	11	4
+	+	11	4
+
+> ~/cityfruit/wonderland/.git/MERGE_MSG
+	*	1575901543	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
+
+> ~/cityfruit/wonderland/docker-compose.yml
+	*	1575588770	0
+	"	43	1
+	.	42	0
+	+	42	3
+	+	43	12
+	+	42	0
+
+> ~/cityfruit/wonderland/gateway/docs/test.sh
+	*	1574942488	0
+	"	1	0
+
+> ~/lxedge/grpc-java/examples/src/main/proto/helloworld.proto
+	*	1574382267	0
+	"	29	0
+	^	27	58
+	.	27	57
+	+	27	57
+
+> ~/lxedge/grpc-java/examples/build/generated/source/proto/main/grpc/io/grpc/examples/helloworld/GreeterGrpc.java
+	*	1574382068	0
+	"	271	5
+	^	6	6
+	.	6	5
+	+	6	5
+
+> ~/cityfruit/wonderland/relation/.gitignore
+	*	1574228411	0
+	"	11	4
+	^	11	5
+	.	11	4
+	+	11	4
+
+> ~/cityfruit/wonderland/config/Dockerfile
+	*	1573856596	0
+	"	1	0
+
+> ~/cityfruit/wonderland/config/docker/Dockerfile
+	*	1573755286	0
+	"	1	0
+
+> ~/cityfruit/docker-compose.yml
+	*	1573502053	0
+	"	6	0
+	.	15	9
+	+	16	22
+	+	16	0
+	+	16	5
+	+	1	3
+	+	16	0
+	+	15	9
+
+> ~/lxedge/scala/hello-world/src/main/scala/Main.scala
+	*	1573490953	0
+	"	1	0
+
+> ~/lxedge/akka-in-action/chapter-up-and-running/build.sbt
+	*	1573488886	0
+	"	19	15
+
+> ~/lxedge/akka-in-action/chapter-up-and-running/scala.sbt
+	*	1573488852	0
+	"	1	0
+
+> ~/lxedge/akka-in-action/build.sbt
+	*	1573488609	0
+	"	1	0
