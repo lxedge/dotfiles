@@ -144,50 +144,8 @@ export FZF_DEFAULT_OPTS="--height 100% --layout=reverse --preview '(highlight -O
 # alias python="/usr/local/bin/python3"
 # alias pip="/usr/local/bin/pip3"
 
-# maven
-export PATH=/usr/local/maven/bin:$PATH
-
-# zookeeper
-export PATH=/usr/local/zookeeper/bin:$PATH
-
-# storm
-export PATH=/usr/local/storm/bin:$PATH
-
-# flutter
-export PATH=/Users/miles/Applications/flutter_macos_1.20.4-stable/flutter/bin:$PATH
-export PUB_HOSTED_URL=https://pub.flutter-io.cn
-export FLUTTER_STORAGE_BASE_URL=https://storage.flutter-io.cn
-export PATH=/usr/bin/php:$PATH
-
-# history command in iex shell
-alias iex='iex --erl "-kernel shell_history enabled"'
-
-# solana dev tools
-export PATH="/Users/miles/.local/share/solana/install/active_release/bin:$PATH"
-
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
-# >>> conda initialize >>>
-# !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/opt/anaconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
-if [ $? -eq 0 ]; then
-    eval "$__conda_setup"
-else
-    if [ -f "/opt/anaconda3/etc/profile.d/conda.sh" ]; then
-        . "/opt/anaconda3/etc/profile.d/conda.sh"
-    else
-        export PATH="/opt/anaconda3/bin:$PATH"
-    fi
-fi
-unset __conda_setup
-# <<< conda initialize <<<
 
-test -e /Users/miles/.iterm2_shell_integration.zsh && source /Users/miles/.iterm2_shell_integration.zsh || true
-export VOLTA_HOME="$HOME/.volta"
-export PATH="$VOLTA_HOME/bin:$PATH"
-
-. "/usr/local/opt/asdf/libexec/asdf.sh"
-
-. "/usr/local/opt/asdf/etc/bash_completion.d/asdf.bash"
-
+if [ -e /home/miles/.nix-profile/etc/profile.d/nix.sh ]; then . /home/miles/.nix-profile/etc/profile.d/nix.sh; fi # added by Nix installer
